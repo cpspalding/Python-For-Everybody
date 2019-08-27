@@ -15,7 +15,8 @@ I have all required software.
 I can skip the Installing and Using Python units.
 Stakeholders (individuals or organizations having a right, share, claim, or interest in a system or in its possession of characteristics that meet their needs and expectations)
 Professor - for grade
-Parents - investing in my education and future success, want to make them proud
+Parents - just wanting to make them proud
+Myself- I got this even though I don't' know anything about computers, YET
 Perspective Employers - artifact will be added to my student portfolio which could help with getting a job
 Timelines (for software, a breakdown of high level goals like from the Product Backlog into time-bound smaller, more detailed tasks, like in Sprint Backlogs)
 Chapter One - Why we Program? (3 hours)
