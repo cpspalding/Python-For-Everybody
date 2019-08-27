@@ -1,6 +1,6 @@
 # Python-For-Everybody
 Goals (high level intended outcomes; for software, a Product Backlog)
--Develop a basic understanding of Python
+-Develop a basic understanding of Python and what python is
 Boundaries / Scope (where the functions and responsibilities of the solution start and end / what it should do and what is left to other systems to do)
 -Complete Course 1 Programming for Everybody (Getting Started with Python) 
 -Complete Course 2 Python Data Structures
