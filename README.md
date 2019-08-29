@@ -13,7 +13,7 @@ Boundaries / Scope (where the functions and responsibilities of the solution sta
 Success criteria (set of conditions to be satisfied at completion; must be measurable and verifiable, like a test) </br>
 -My own application for data retrieval and processing. </br>
 -Weekly work log with screenshots and summaries to demonstrate activity to keep my work updated and ontime. </br>
--Utilize core programming tools such as functions and loops. 
+-Utilize core programming tools such as functions and loops. </br> 
 -Have a completed project by the end of the course that is ON TIME. </br>
 Constraints (externally imposed limitations on system requirements, design, or implementation or on the process used to develop or modify a system) </br>
 -Not paying for the course so I won't be able to obtain the certificate. </br>
