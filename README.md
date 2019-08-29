@@ -28,7 +28,7 @@ Assumptions (things that are accepted as true or as certain to happen, without p
 Stakeholders (individuals or organizations having a right, share, claim, or interest in a system or in its possession of characteristics that meet their needs and expectations) </br>
 -Professor - for grade </br>
 -Parents - just wanting to make them proud. </br>
--Florida- I'm on a full scolarship so I have to pass my classes. </br>
+-Florida- I'm on a full scholarship so I have to pass my classes. </br>
 -Myself- I got this, even though I don't' know anything about computers, YET. </br>
 -Perspective Employers - the basic understanding of python may be beneficial when running my family business Spalding Carpet Cleaners. </br>
 Timelines (for software, a breakdown of high level goals like from the Product Backlog into time-bound smaller, more detailed tasks, like in Sprint Backlogs) </br>
