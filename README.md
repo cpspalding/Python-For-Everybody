@@ -35,8 +35,94 @@ Timelines (for software, a breakdown of high level goals like from the Product B
 -Chapter One - Why we Program? (3 hours) </br>
 -Chapter Two: Variables and Expressions (3 hours) </br>
 -Chapter Three: Conditional Code (3 hours) </br>
--Chapter Five: Loops and Iteration (3 hours) </br>
--Chapter Four: Functions (2 hours) </br>
+#-Chapter Five: Loops and Iteration (3 hours) </br>
+Loops have iteration variables that change each time through a loop.
+n=5    Have to initiate variable.
+While n>0:    Have to set condition
+	print(n)   prints variable every time it goes through loop
+	n=n-1     iteration variable, if not it wouldn’t know what to do after entering 5
+print(‘blastoff!’)   only prints once loop is completed, not in indentation 
+print(n)        will print final variable of end after loop is completed since not in indentation
+LOOP THAT WILL NOT WORK
+n=5
+While n>0:
+	Print(‘Lather’)
+	Print(‘Rinse”)
+Print(‘Dry off’)
+NO ITERATION VARIABLE
+#Prof said breaks was bad practice so I didn’t include notes on breaks and continues.
+
+
+Definite loop
+for i in (5,4,3,2,1): green is iteration variable that iterates through the sequence
+	print(i)   the purple is the (body) of code that is executed once for each value in the sequence
+print(‘Blastoff!’) 
+5
+4
+3
+2
+1
+Blastoff!
+friends=(‘Joseph’,’Glenn’,’Sally’)
+for friend in friends:
+	print(‘Happy New Year:’,friend)
+print(‘Done!’)
+Happy New Year: Joseph
+Happy New Year: Glenn
+Happy New Year: Sally
+print(‘Before’)
+for thing in(9,41,12,3,74,15)
+	print(thing)
+print(‘After’)
+before
+9
+41
+12
+3
+74
+15
+After
+Notice how Before and After are not in loop
+Average in Loop
+Count=0
+Sum=0
+Print(‘Before’,count,sum)
+For value in (9,41,12,3,74,15):
+	Count=count+1
+	Sum=sum+value
+	Print(count,suum,value)
+Print(‘After’,count,sum,sum/count)
+Before 00
+9 9
+50 41
+62 12
+65 3
+139 74
+154 15
+After  154 25
+
+#-Chapter Four: Functions (2 hours) </br>
+-Functions start with the keyword def, followed by the name and then end with :
+-Def defines the function, make sure to indent bondy of function.
+-Functions in a program don’t actually run unless they’re “Called” by name
+-Function examples: print() float()input()type()int()string()
+Input() always gives back a string
+Argument: Value we pass into function as its input when we call the function
+-used to direct function to do different types of work
+-Using global variables is BAD practice, instead use parameters
+-Parameter: a variable which we use in the function def, a handle that allows the function to access variables outside the function.
+Return values return a value to be used as the value of a function call in the calling expression.
+Def greet()
+	Return “hello”
+Print(greet(),”glenn”)
+print(greet(),”Sally”)
+
+Hello Glenn
+Hello Sally
+
+Fruitful functions produce a result/return value.
+-We can use more than one parameter, we got to add more arguments, match number and order of arguments and parameters.
+
 -Chapter Seven: Files (3 hours) </br>
 -Chapter Eight: Lists (3 hours)</br>
 -Chapter Six: Strings (3 hours)</br>
