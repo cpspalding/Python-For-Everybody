@@ -33,6 +33,7 @@ Stakeholders (individuals or organizations having a right, share, claim, or inte
 -Perspective Employers - the basic understanding of python may be beneficial when running my family business Spalding Carpet Cleaners. </br>
 Timelines (for software, a breakdown of high level goals like from the Product Backlog into time-bound smaller, more detailed tasks, like in Sprint Backlogs) </br>
 -Chapter One - Why we Program? (3 hours) </br>
+
 -Chapter Two: Variables and Expressions (3 hours) </br>
 -Chapter Three: Conditional Code (3 hours) </br>
 -Chapter Five: Loops and Iteration (3 hours) </br>
