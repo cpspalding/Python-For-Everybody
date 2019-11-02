@@ -45,4 +45,4 @@ Timelines (for software, a breakdown of high level goals like from the Product B
 -Chapter Ten: Tuples (2 hours)</br>
 -Graduation and work on independent program (2 hours) </br>
 -Complete independent program (2 hours) </br>
-# So far, I've used python for everybody as a review to reinforce material the professor has taught us in class. It jogs my memory over the weekend while I'm working on my exercises and integration project. It's quite simple material, so it better enables me to grasp the concepts I have a hard time understanding, like loops. 
+# So far, I've used python for everybody as a review to reinforce material the professor has taught us in class. It jogs my memory over the weekend, and it better helps me understand the material that is increasingly getting harder over the duration of the course. It sure is helping me use lists on my integration project.
