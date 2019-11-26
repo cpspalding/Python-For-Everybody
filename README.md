@@ -46,3 +46,4 @@ Timelines (for software, a breakdown of high level goals like from the Product B
 -Graduation and work on independent program (2 hours) </br>
 -Complete independent program (2 hours) </br>
 # So far, I've used python for everybody as a review to reinforce material the professor has taught us in class. It jogs my memory over the weekend, and it better helps me understand the material that is increasingly getting harder over the duration of the course. It sure is helping me use lists on my integration project.
+#I used snip it for my images but they still turned out enlarged
