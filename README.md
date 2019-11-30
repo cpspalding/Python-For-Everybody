@@ -46,4 +46,6 @@ Timelines (for software, a breakdown of high level goals like from the Product B
 -Graduation and work on independent program (2 hours) </br>
 -Complete independent program (2 hours) </br>
 # So far, I've used python for everybody as a review to reinforce material the professor has taught us in class. It jogs my memory over the weekend, and it better helps me understand the material that is increasingly getting harder over the duration of the course. It sure is helping me use lists on my integration project.
-#I used snip it for my images but they still turned out enlarged
+# I used snip it for my images but they still turned out enlarged.
+# Python For Everybody has helped me develop a basic understanding of materials we have yet to go over in class, including: lists, dictionaries, and tuples!
+# The code he goes into are a little complicated for me to understand so I took notes on the examples I could comprehend. 
